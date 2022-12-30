@@ -40,7 +40,7 @@
    - Whats are the *results* of actions
 * Part 3: Leaders need a following
 #+BEGIN_QUOTE
-It is a companies responsibility to look after the employees first. Happy employees ensure happy customer and happy customers ensure happy shareholders. In that order!
+It is a companies responsibility to look after the employees first. Happy employees ensure happy customers and happy customers ensure happy shareholders. In that order!
 #+END_QUOTE
 - A company is a culture
 - Great companies hire motivated people and inspire them
