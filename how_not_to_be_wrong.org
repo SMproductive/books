@@ -4,9 +4,9 @@
 - A mathematician is always asking, "What assumptions are you making? And are they justified"
 - Mathematics is the extension of common sense by other means
 ** Less like Sweden
-- nonlinear thinking means which way you should go depends on where you already are
+- Nonlinear thinking means which way you should go depends on where you already are
 ** Straight locally, curved globally
-- If you get a hard problem, try to solve a simpler one an dhope the simple version is close enough
+- If you get a hard problem, try to solve a simpler one and hope the simple version is close enough
 * Inference
 ** The detective, not the judge
 - The purpose of statistics is to tell us what to do
