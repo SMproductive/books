@@ -1,0 +1,26 @@
+#+title: How not to be wrong the power of mathematical thinking
+* Linearity
+** When am I going to use this
+- A mathematician is always asking, "What assumptions are you making? And are they justified"
+- Mathematics is the extension of common sense by other means
+** Less like Sweden
+- nonlinear thinking means which way you should go depends on where you already are
+** Straight locally, curved globally
+- If you get a hard problem, try to solve a simpler one an dhope the simple version is close enough
+* Inference
+** The detective, not the judge
+- The purpose of statistics is to tell us what to do
+** Radio psychics and the rule of Bayes
+- We tend to like simpler theories better than more complicated ones
+* Expectations
+** What to expect when you're expecting to win the lottery
+- Lotteries are a tax on the stupid
+* Regression
+** The triumph of mediocrity
+- Regression to the mean
+** The adventure of Karl Baeron across the tenth dimension
+- Correlation is more like blood relation, it is intransitive
+* Existence
+** That does not compute
+- When you are working hard on a theorem try to prove it by day and disprove it by night
+- That's a good habit to put pressure on your beliefs
